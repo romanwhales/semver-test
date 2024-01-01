@@ -76,6 +76,7 @@
     "type": "git",
     "url": "https://github.com/romanwhales/semver-test.git"
   },
+  "branches":["main","next"],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
